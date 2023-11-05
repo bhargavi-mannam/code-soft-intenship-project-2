@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(198, 11, 67);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: #ed1212;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(229, 80, 80, 0.2);
+}
+
+h1 {
+    margin: 0;
+}
+
+input[type="time"] {
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #7f05057d;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
